@@ -27,6 +27,10 @@ a {
   background-color: #6542a1
 }
 
+.nav.navbar-nav {
+  margin: 0 -15px
+}
+
 .navbar.navbar-default .nav.navbar-nav > li.active > a {
   color: #555;
 }
