@@ -1,0 +1,21 @@
+{
+  "name": "hcj-assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run sync",
+    "sync": "browser-sync start --server --files index.html ./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NareshPalza/HCJ-Assignment3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.4",
+    "jquery": "^1.11.3"
+  }
+}

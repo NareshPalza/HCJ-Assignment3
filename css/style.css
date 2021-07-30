@@ -1,0 +1,93 @@
+body > div.container-fluid {
+  padding: 0px 30px;
+  background-color: #f9f7fc;
+  height: 1000px;;
+}
+
+a {
+  color: #0a20e7
+}
+
+.navbar.navbar-default {
+  background-color: #6f5499;
+  color: #fff;
+  margin-bottom: 0px;
+}
+
+.navbar.navbar-default .navbar-brand {
+  color: #fff;
+}
+
+.navbar.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  text-align: center;
+}
+
+.navbar.navbar-default .collapse.navbar-collapse {
+  background-color: #6542a1
+}
+
+.navbar.navbar-default .nav.navbar-nav > li.active > a {
+  color: #555;
+}
+
+.navbar.navbar-default .navbar-header .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+.navbar.navbar-default .nav.navbar-nav > li:hover > a {
+  color: #555;
+}
+
+.menuContent {
+  position: relative;
+  margin-top: 30px;
+}
+
+.menuOuterBox {
+  margin-bottom: 30px;
+}
+
+.menuBox {
+  position: relative;
+  background-color: grey;
+  border: 1px solid black;
+}
+
+.title {
+  position: absolute;
+  right: 0px;
+  font-weight: bold;
+  padding: 0 20px;
+  border: 1px solid black;
+  border-top: 0px;
+  border-right: 0px;
+}
+
+#title1 {
+  background-color: pink;
+}
+
+#title2 {
+  background-color: red;
+}
+
+#title3 {
+  background-color: yellow;
+}
+
+.boxContent {
+  margin-top: 25px;
+  padding: 10px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 1.5em;
+}
+
+.menuEnd {
+  margin-right: 10px;
+}
